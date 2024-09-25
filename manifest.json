@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Hunnit",
+    "version": "1.0",
+    "permissions": [
+        "tabs",
+        "webNavigation",
+        "webRequest",
+        "*://*.google.*/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
