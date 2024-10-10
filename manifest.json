@@ -1,9 +1,7 @@
-
-
-
 {
     "manifest_version": 3,
     "name": "Hunnit",
+    "description": "Return 100 Google search results instead of 10",
     "version": "1.0",
     "permissions": [
         "tabs",
@@ -15,10 +13,10 @@
     ],
     "background": {
         "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "icons/hunnit16.png",
+        "48": "icons/hunnit48.png",
+        "128": "icons/hunnit128.png"
     }
 }
-
-
-
-
-
