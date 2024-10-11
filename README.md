@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="icons/hunnit128.png" alt="Logo" width="200"/>
+</p>
 
 # Return 100 Results
 
