@@ -4,9 +4,7 @@
     "description": "Return 100 Google search results instead of 10",
     "version": "1.0",
     "permissions": [
-        "tabs",
-        "webNavigation",
-        "webRequest"
+        "tabs"
     ],
     "host_permissions": [
         "*://*.google.com/*"
