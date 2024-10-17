@@ -8,8 +8,14 @@ Google Chrome extension to append `&num=100` to google URLs to ensure you always
 
 # Installation
 
-1. Clone this repo
-2. Go to chrome://extensions/ in the address bar Google Chrome
+**Recommended** Install from [Chrome Web Store](https://chromewebstore.google.com/detail/return-100-results/akoadlepoggmbajdbnioncbhgngpihjj), click 'Add to chrome'
+
+OR
+
+Install manually by
+
+1. Cloning this repo
+2. Going to chrome://extensions/ in the Chrome address bar
 3. Enable Developer Mode
 4. Click on "Load unpacked" and select the folder you cloned
 
