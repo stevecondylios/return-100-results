@@ -16,8 +16,6 @@ Install manually by
 
 1. Cloning this repo
 2. Going to chrome://extensions/ in the Chrome address bar
-3. Enable Developer Mode
-4. Click on "Load unpacked" and select the folder you cloned
-
-
+3. Enabling Developer Mode
+4. Clicking on "Load unpacked" and selecting the folder you cloned
 
